@@ -1,0 +1,34 @@
+C:\Personal\Practice Manager\API\PMApi\LicenseLibrary\bin\Debug\LicenseLibrary.dll
+C:\Personal\Practice Manager\API\PMApi\LicenseLibrary\bin\Debug\LicenseLibrary.pdb
+C:\Personal\Practice Manager\API\PMApi\LicenseLibrary\bin\Debug\LogLibrary.dll
+C:\Personal\Practice Manager\API\PMApi\LicenseLibrary\bin\Debug\LogLibrary.pdb
+C:\Personal\Practice Manager\API\PMApi\LicenseLibrary\obj\Debug\LicenseLibrary.dll
+C:\Personal\Practice Manager\API\PMApi\LicenseLibrary\obj\Debug\LicenseLibrary.pdb
+C:\Personal\Practice Manager\API\PMApi\LicenseLibrary\obj\Debug\LicenseLibrary.csprojResolveAssemblyReference.cache
+C:\Personal\Practice Manager\API\PMApi\LicenseLibrary\bin\Debug\LicenseLibrary.dll.config
+C:\Personal\Practice Manager\API\PMApi\LicenseLibrary\bin\Debug\MongoDB.Bson.dll
+C:\Personal\Practice Manager\API\PMApi\LicenseLibrary\bin\Debug\MongoDB.Driver.Core.dll
+C:\Personal\Practice Manager\API\PMApi\LicenseLibrary\bin\Debug\MongoDB.Driver.dll
+C:\Personal\Practice Manager\API\PMApi\LicenseLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Personal\Practice Manager\API\PMApi\LicenseLibrary\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Personal\Practice Manager\API\PMApi\LicenseLibrary\bin\Debug\MongoDB.Bson.xml
+C:\Personal\Practice Manager\API\PMApi\LicenseLibrary\bin\Debug\MongoDB.Driver.xml
+C:\Personal\Practice Manager\API\PMApi\LicenseLibrary\bin\Debug\MongoDB.Driver.Core.xml
+C:\Personal\Practice Manager\API\PMApi\LicenseLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Personal\Khel\API\LicenseLibrary\bin\Debug\LicenseLibrary.dll.config
+C:\Personal\Khel\API\LicenseLibrary\bin\Debug\LicenseLibrary.dll
+C:\Personal\Khel\API\LicenseLibrary\bin\Debug\LicenseLibrary.pdb
+C:\Personal\Khel\API\LicenseLibrary\bin\Debug\LogLibrary.dll
+C:\Personal\Khel\API\LicenseLibrary\bin\Debug\MongoDB.Bson.dll
+C:\Personal\Khel\API\LicenseLibrary\bin\Debug\MongoDB.Driver.Core.dll
+C:\Personal\Khel\API\LicenseLibrary\bin\Debug\MongoDB.Driver.dll
+C:\Personal\Khel\API\LicenseLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Personal\Khel\API\LicenseLibrary\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Personal\Khel\API\LicenseLibrary\bin\Debug\LogLibrary.pdb
+C:\Personal\Khel\API\LicenseLibrary\bin\Debug\MongoDB.Bson.xml
+C:\Personal\Khel\API\LicenseLibrary\bin\Debug\MongoDB.Driver.xml
+C:\Personal\Khel\API\LicenseLibrary\bin\Debug\MongoDB.Driver.Core.xml
+C:\Personal\Khel\API\LicenseLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Personal\Khel\API\LicenseLibrary\obj\Debug\LicenseLibrary.csprojResolveAssemblyReference.cache
+C:\Personal\Khel\API\LicenseLibrary\obj\Debug\LicenseLibrary.dll
+C:\Personal\Khel\API\LicenseLibrary\obj\Debug\LicenseLibrary.pdb

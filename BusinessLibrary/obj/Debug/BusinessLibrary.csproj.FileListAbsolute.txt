@@ -1,0 +1,36 @@
+C:\Personal\Practice Manager\API\PMApi\BusinessLibrary\bin\Debug\BusinessLibrary.dll.config
+C:\Personal\Practice Manager\API\PMApi\BusinessLibrary\bin\Debug\BusinessLibrary.dll
+C:\Personal\Practice Manager\API\PMApi\BusinessLibrary\bin\Debug\BusinessLibrary.pdb
+C:\Personal\Practice Manager\API\PMApi\BusinessLibrary\bin\Debug\DataLibrary.dll
+C:\Personal\Practice Manager\API\PMApi\BusinessLibrary\bin\Debug\LogLibrary.dll
+C:\Personal\Practice Manager\API\PMApi\BusinessLibrary\bin\Debug\MongoDB.Bson.dll
+C:\Personal\Practice Manager\API\PMApi\BusinessLibrary\bin\Debug\DataLibrary.pdb
+C:\Personal\Practice Manager\API\PMApi\BusinessLibrary\bin\Debug\LogLibrary.pdb
+C:\Personal\Practice Manager\API\PMApi\BusinessLibrary\bin\Debug\MongoDB.Bson.xml
+C:\Personal\Practice Manager\API\PMApi\BusinessLibrary\obj\Debug\BusinessLibrary.csprojResolveAssemblyReference.cache
+C:\Personal\Practice Manager\API\PMApi\BusinessLibrary\obj\Debug\BusinessLibrary.dll
+C:\Personal\Practice Manager\API\PMApi\BusinessLibrary\obj\Debug\BusinessLibrary.pdb
+C:\Personal\Practice Manager\API\PMApi\BusinessLibrary\bin\Debug\MongoDB.Driver.dll
+C:\Personal\Practice Manager\API\PMApi\BusinessLibrary\bin\Debug\MongoDB.Driver.Core.dll
+C:\Personal\Practice Manager\API\PMApi\BusinessLibrary\bin\Debug\MongoDB.Driver.xml
+C:\Personal\Practice Manager\API\PMApi\BusinessLibrary\bin\Debug\MongoDB.Driver.Core.xml
+C:\Personal\Practice Manager\API\PMApi\BusinessLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Personal\Practice Manager\API\PMApi\BusinessLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Personal\Khel\API\BusinessLibrary\bin\Debug\BusinessLibrary.dll.config
+C:\Personal\Khel\API\BusinessLibrary\bin\Debug\BusinessLibrary.dll
+C:\Personal\Khel\API\BusinessLibrary\bin\Debug\BusinessLibrary.pdb
+C:\Personal\Khel\API\BusinessLibrary\bin\Debug\DataLibrary.dll
+C:\Personal\Khel\API\BusinessLibrary\bin\Debug\LogLibrary.dll
+C:\Personal\Khel\API\BusinessLibrary\bin\Debug\DataLibrary.pdb
+C:\Personal\Khel\API\BusinessLibrary\bin\Debug\LogLibrary.pdb
+C:\Personal\Khel\API\BusinessLibrary\obj\Debug\BusinessLibrary.csprojResolveAssemblyReference.cache
+C:\Personal\Khel\API\BusinessLibrary\obj\Debug\BusinessLibrary.dll
+C:\Personal\Khel\API\BusinessLibrary\obj\Debug\BusinessLibrary.pdb
+C:\Personal\Khel\API\BusinessLibrary\bin\Debug\MongoDB.Bson.dll
+C:\Personal\Khel\API\BusinessLibrary\bin\Debug\MongoDB.Bson.xml
+C:\Personal\Khel\API\BusinessLibrary\bin\Debug\MongoDB.Driver.dll
+C:\Personal\Khel\API\BusinessLibrary\bin\Debug\MongoDB.Driver.Core.dll
+C:\Personal\Khel\API\BusinessLibrary\bin\Debug\MongoDB.Driver.xml
+C:\Personal\Khel\API\BusinessLibrary\bin\Debug\MongoDB.Driver.Core.xml
+C:\Personal\Khel\API\BusinessLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Personal\Khel\API\BusinessLibrary\bin\Debug\Newtonsoft.Json.xml

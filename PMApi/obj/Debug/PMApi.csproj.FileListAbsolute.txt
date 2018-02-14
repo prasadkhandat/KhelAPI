@@ -1,0 +1,312 @@
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\ApplicationInsights.config
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\csc.exe
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\vbc.exe
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\VBCSCompiler.exe
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\PMApi.dll.config
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\PMApi.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\PMApi.pdb
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Antlr3.Runtime.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.AI.Web.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.ApplicationInsights.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Newtonsoft.Json.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Net.Http.Formatting.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.Helpers.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.Http.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.Http.WebHost.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.Mvc.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.Optimization.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.Razor.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.WebPages.Deployment.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.WebPages.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.WebPages.Razor.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\WebGrease.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.AI.Web.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.ApplicationInsights.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Newtonsoft.Json.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Net.Http.Formatting.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.Helpers.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.Http.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.Http.WebHost.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.Mvc.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.Optimization.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.Razor.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.WebPages.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.WebPages.Deployment.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.WebPages.Razor.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Antlr3.Runtime.pdb
+C:\Personal\Practice Manager\API\PMApi\PMApi\obj\Debug\PMApi.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\obj\Debug\PMApi.pdb
+C:\Personal\Practice Manager\API\PMApi\PMApi\obj\Debug\PMApi.csprojResolveAssemblyReference.cache
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\csc.exe.config
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\csc.rsp
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\csi.exe
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\csi.exe.config
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\csi.rsp
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.AppContext.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.Console.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.IO.Compression.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.IO.Pipes.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.Security.Claims.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.Threading.Thread.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.ValueTuple.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.Xml.XPath.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\vbc.exe.config
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\roslyn\vbc.rsp
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\LicenseLibrary.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\LogLibrary.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.AspNetCore.Http.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Extensions.Options.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Extensions.Primitives.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Net.Http.Headers.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Owin.Cors.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Owin.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Owin.Host.HttpListener.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Owin.Hosting.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Owin.Security.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\MongoDB.Bson.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\MongoDB.Driver.Core.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\MongoDB.Driver.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Owin.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Swashbuckle.Core.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Buffers.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Text.Encodings.Web.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.Cors.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.Http.Cors.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.Http.Owin.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\WebActivatorEx.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\LicenseLibrary.pdb
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\LogLibrary.pdb
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.AspNetCore.Http.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Extensions.Options.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Extensions.Primitives.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Net.Http.Headers.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Owin.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Owin.Cors.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Owin.Host.HttpListener.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Owin.Hosting.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Owin.Security.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\MongoDB.Bson.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\MongoDB.Driver.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\MongoDB.Driver.Core.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Text.Encodings.Web.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.Http.Cors.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\System.Web.Http.Owin.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\PMApi.XML
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\BusinessLibrary.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\DataLibrary.dll
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\BusinessLibrary.pdb
+C:\Personal\Practice Manager\API\PMApi\PMApi\bin\DataLibrary.pdb
+C:\Personal\Khel\API\PMApi\bin\ApplicationInsights.config
+C:\Personal\Khel\API\PMApi\bin\roslyn\csc.exe
+C:\Personal\Khel\API\PMApi\bin\roslyn\csc.exe.config
+C:\Personal\Khel\API\PMApi\bin\roslyn\csc.rsp
+C:\Personal\Khel\API\PMApi\bin\roslyn\csi.exe
+C:\Personal\Khel\API\PMApi\bin\roslyn\csi.exe.config
+C:\Personal\Khel\API\PMApi\bin\roslyn\csi.rsp
+C:\Personal\Khel\API\PMApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Personal\Khel\API\PMApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Personal\Khel\API\PMApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.AppContext.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.Console.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.IO.Compression.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.IO.Pipes.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.Security.Claims.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.Threading.Thread.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.ValueTuple.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.Xml.XPath.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Personal\Khel\API\PMApi\bin\roslyn\vbc.exe
+C:\Personal\Khel\API\PMApi\bin\roslyn\vbc.exe.config
+C:\Personal\Khel\API\PMApi\bin\roslyn\vbc.rsp
+C:\Personal\Khel\API\PMApi\bin\roslyn\VBCSCompiler.exe
+C:\Personal\Khel\API\PMApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Personal\Khel\API\PMApi\bin\PMApi.dll.config
+C:\Personal\Khel\API\PMApi\bin\PMApi.XML
+C:\Personal\Khel\API\PMApi\bin\PMApi.dll
+C:\Personal\Khel\API\PMApi\bin\PMApi.pdb
+C:\Personal\Khel\API\PMApi\bin\Antlr3.Runtime.dll
+C:\Personal\Khel\API\PMApi\bin\BusinessLibrary.dll
+C:\Personal\Khel\API\PMApi\bin\DataLibrary.dll
+C:\Personal\Khel\API\PMApi\bin\LicenseLibrary.dll
+C:\Personal\Khel\API\PMApi\bin\LogLibrary.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.AI.Web.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.ApplicationInsights.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.AspNetCore.Http.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Extensions.Options.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Extensions.Primitives.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Net.Http.Headers.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Owin.Cors.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Owin.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Owin.Host.HttpListener.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Owin.Hosting.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Owin.Security.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Personal\Khel\API\PMApi\bin\MongoDB.Bson.dll
+C:\Personal\Khel\API\PMApi\bin\MongoDB.Driver.Core.dll
+C:\Personal\Khel\API\PMApi\bin\MongoDB.Driver.dll
+C:\Personal\Khel\API\PMApi\bin\Newtonsoft.Json.dll
+C:\Personal\Khel\API\PMApi\bin\Owin.dll
+C:\Personal\Khel\API\PMApi\bin\Swashbuckle.Core.dll
+C:\Personal\Khel\API\PMApi\bin\System.Buffers.dll
+C:\Personal\Khel\API\PMApi\bin\System.Net.Http.Formatting.dll
+C:\Personal\Khel\API\PMApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Personal\Khel\API\PMApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Personal\Khel\API\PMApi\bin\System.Text.Encodings.Web.dll
+C:\Personal\Khel\API\PMApi\bin\System.Web.Cors.dll
+C:\Personal\Khel\API\PMApi\bin\System.Web.Helpers.dll
+C:\Personal\Khel\API\PMApi\bin\System.Web.Http.Cors.dll
+C:\Personal\Khel\API\PMApi\bin\System.Web.Http.dll
+C:\Personal\Khel\API\PMApi\bin\System.Web.Http.Owin.dll
+C:\Personal\Khel\API\PMApi\bin\System.Web.Http.WebHost.dll
+C:\Personal\Khel\API\PMApi\bin\System.Web.Mvc.dll
+C:\Personal\Khel\API\PMApi\bin\System.Web.Optimization.dll
+C:\Personal\Khel\API\PMApi\bin\System.Web.Razor.dll
+C:\Personal\Khel\API\PMApi\bin\System.Web.WebPages.Deployment.dll
+C:\Personal\Khel\API\PMApi\bin\System.Web.WebPages.dll
+C:\Personal\Khel\API\PMApi\bin\System.Web.WebPages.Razor.dll
+C:\Personal\Khel\API\PMApi\bin\WebActivatorEx.dll
+C:\Personal\Khel\API\PMApi\bin\WebGrease.dll
+C:\Personal\Khel\API\PMApi\bin\BusinessLibrary.pdb
+C:\Personal\Khel\API\PMApi\bin\DataLibrary.pdb
+C:\Personal\Khel\API\PMApi\bin\LicenseLibrary.pdb
+C:\Personal\Khel\API\PMApi\bin\LogLibrary.pdb
+C:\Personal\Khel\API\PMApi\bin\Antlr3.Runtime.pdb
+C:\Personal\Khel\API\PMApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Personal\Khel\API\PMApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Personal\Khel\API\PMApi\bin\Microsoft.AI.Web.xml
+C:\Personal\Khel\API\PMApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Personal\Khel\API\PMApi\bin\Microsoft.ApplicationInsights.xml
+C:\Personal\Khel\API\PMApi\bin\Microsoft.AspNetCore.Http.xml
+C:\Personal\Khel\API\PMApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Personal\Khel\API\PMApi\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Personal\Khel\API\PMApi\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Personal\Khel\API\PMApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Extensions.Options.xml
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Extensions.Primitives.xml
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Net.Http.Headers.xml
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Owin.xml
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Owin.Cors.xml
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Owin.Host.HttpListener.xml
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Owin.Hosting.xml
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Owin.Security.xml
+C:\Personal\Khel\API\PMApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Personal\Khel\API\PMApi\bin\MongoDB.Bson.xml
+C:\Personal\Khel\API\PMApi\bin\MongoDB.Driver.xml
+C:\Personal\Khel\API\PMApi\bin\MongoDB.Driver.Core.xml
+C:\Personal\Khel\API\PMApi\bin\Newtonsoft.Json.xml
+C:\Personal\Khel\API\PMApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Personal\Khel\API\PMApi\bin\System.Text.Encodings.Web.xml
+C:\Personal\Khel\API\PMApi\bin\System.Web.Http.Cors.xml
+C:\Personal\Khel\API\PMApi\bin\System.Web.Http.Owin.xml
+C:\Personal\Khel\API\PMApi\bin\System.Net.Http.Formatting.xml
+C:\Personal\Khel\API\PMApi\bin\System.Web.Helpers.xml
+C:\Personal\Khel\API\PMApi\bin\System.Web.Http.xml
+C:\Personal\Khel\API\PMApi\bin\System.Web.Http.WebHost.xml
+C:\Personal\Khel\API\PMApi\bin\System.Web.Mvc.xml
+C:\Personal\Khel\API\PMApi\bin\System.Web.Optimization.xml
+C:\Personal\Khel\API\PMApi\bin\System.Web.Razor.xml
+C:\Personal\Khel\API\PMApi\bin\System.Web.WebPages.xml
+C:\Personal\Khel\API\PMApi\bin\System.Web.WebPages.Deployment.xml
+C:\Personal\Khel\API\PMApi\bin\System.Web.WebPages.Razor.xml
+C:\Personal\Khel\API\PMApi\obj\Debug\PMApi.csprojResolveAssemblyReference.cache
+C:\Personal\Khel\API\PMApi\obj\Debug\PMApi.dll
+C:\Personal\Khel\API\PMApi\obj\Debug\PMApi.pdb

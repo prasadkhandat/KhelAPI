@@ -1,0 +1,10 @@
+C:\Personal\Practice Manager\API\PMApi\LogLibrary\bin\Debug\LogLibrary.dll
+C:\Personal\Practice Manager\API\PMApi\LogLibrary\bin\Debug\LogLibrary.pdb
+C:\Personal\Practice Manager\API\PMApi\LogLibrary\obj\Debug\LogLibrary.csprojResolveAssemblyReference.cache
+C:\Personal\Practice Manager\API\PMApi\LogLibrary\obj\Debug\LogLibrary.dll
+C:\Personal\Practice Manager\API\PMApi\LogLibrary\obj\Debug\LogLibrary.pdb
+C:\Personal\Khel\API\LogLibrary\bin\Debug\LogLibrary.dll
+C:\Personal\Khel\API\LogLibrary\bin\Debug\LogLibrary.pdb
+C:\Personal\Khel\API\LogLibrary\obj\Debug\LogLibrary.csprojResolveAssemblyReference.cache
+C:\Personal\Khel\API\LogLibrary\obj\Debug\LogLibrary.dll
+C:\Personal\Khel\API\LogLibrary\obj\Debug\LogLibrary.pdb
